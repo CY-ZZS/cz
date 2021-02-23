@@ -1,0 +1,9 @@
+#开发环境的配置文件
+server:
+  port: 9090
+
+
+
+teacher:
+  name: mayun
+  age: 48

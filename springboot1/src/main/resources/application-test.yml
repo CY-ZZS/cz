@@ -1,0 +1,10 @@
+#测试环境的配置文件
+
+
+server:
+  port: 7070
+
+
+teacher:
+  name: leijun
+  age: 48
